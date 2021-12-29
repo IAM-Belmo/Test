@@ -37,5 +37,7 @@ public class A implements I1,I2{
 		System.out.println("Le avg est : "+avg);
 		
 	}
+	
+	// Modification Git //
 
 }
